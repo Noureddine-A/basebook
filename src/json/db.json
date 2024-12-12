@@ -1,0 +1,102 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Jacco",
+      "infix": "de",
+      "lastName": "Leeuw",
+      "departmentId": 1,
+      "image": "https://www.nedbase.nl/app/uploads/2024/11/Jacco-768x1152.jpg",
+      "quote": "Deze opdracht gaan we eens even goed aanvliegen!",
+      "phoneNumber": "+31611111111"
+    },
+    {
+      "id": 2,
+      "firstName": "Jaap",
+      "infix": "",
+      "lastName": "Walhout",
+      "departmentId": 1,
+      "image": "https://www.nedbase.nl/app/uploads/2024/04/jaap-sfeer-600x600.png",
+      "quote": "We gaan die klant er helemaal in meenemen!",
+      "phoneNumber": "+31611111112"
+    },
+    {
+      "id": 3,
+      "firstName": "Jeroen",
+      "infix": "van",
+      "lastName": "Sluijs",
+      "departmentId": 3,
+      "image": "https://www.nedbase.nl/app/uploads/2024/05/Card-2-768x1152.jpg",
+      "quote": "Je kunt er uren over lullen, maar je moet het ook gewoon doen!",
+      "phoneNumber": "+31611111113"
+    },
+    {
+      "id": 4,
+      "firstName": "Jurgen",
+      "infix": "",
+      "lastName": "Franse",
+      "departmentId": 3,
+      "image": "https://www.nedbase.nl/app/uploads/2024/05/jurgen-600x900.jpg",
+      "quote": "Heb je erover nagedacht dat je het ook zo kunt doen?",
+      "phoneNumber": "+31611111114"
+    },
+    {
+      "id": 5,
+      "firstName": "Jachin",
+      "infix": "",
+      "lastName": "Francke",
+      "departmentId": 2,
+      "image": "https://www.nedbase.nl/app/uploads/2024/11/Jachin-768x1152.jpg",
+      "quote": "Het maakt me niet uit wat je doet, als je het maar kunt uitleggen!",
+      "phoneNumber": "+31611111115"
+    },
+    {
+      "id": 6,
+      "firstName": "Jaimy",
+      "infix": "",
+      "lastName": "Goetheer",
+      "departmentId": 2,
+      "image": "https://www.nedbase.nl/app/uploads/2024/05/james-sfeer-600x900.jpg",
+      "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "phoneNumber": "+31611111116"
+    },
+    {
+      "id": 7,
+      "firstName": "Hilbert",
+      "infix": "",
+      "lastName": "Simonse",
+      "departmentId": 4,
+      "image": "https://www.nedbase.nl/app/uploads/2024/05/thumbnail-600x900.jpg",
+      "quote": "Dit ziet er gewoon echt vet uit zo!",
+      "phoneNumber": "+31611111117"
+    },
+    {
+      "id": 8,
+      "firstName": "Laurens",
+      "infix": "",
+      "lastName": "Almekinders",
+      "departmentId": 4,
+      "image": "https://www.nedbase.nl/app/uploads/2024/05/laurens-600x900.jpg",
+      "quote": "Ik weet niet, er mist gewoon nog iets.. misschien een beetje meer van dit of dat!",
+      "phoneNumber": "+31611111118"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "title": "Directie"
+    },
+    {
+      "id": 2,
+      "title": "Front end development"
+    },
+    {
+      "id": 3,
+      "title": "Back end development"
+    },
+    {
+      "id": 4,
+      "title": "Design en UX"
+    }
+  ]
+}
